@@ -4,6 +4,16 @@ API in Node.js using Express and Mongoose to connect a MongoDB Database
 The main objective is to make life easier for application users who go to the supermarket and forget the items they went to buy.
 So this API aims to organize this shopping list.
 
+### Production App
+
+To access the final API, use the link:
+
+```
+https://supermarket-list.herokuapp.com/
+```
+
+The application was deployed using Heroku and MongoDB Atlas
+
 ### Technologies used
 
 - Node.js
